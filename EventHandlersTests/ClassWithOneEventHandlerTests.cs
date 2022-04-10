@@ -7,7 +7,7 @@ namespace EventHandlersTests;
 public class ClassWithOneEventHandlerTests
 {
    [Test]
-   public void RaiseEvent22()
+   public void RaiseEvent()
    {
       // arrange
       const string payload = "Hello, world!";
