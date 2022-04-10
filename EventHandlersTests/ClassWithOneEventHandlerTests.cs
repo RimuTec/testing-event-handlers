@@ -22,7 +22,7 @@ public class ClassWithOneEventHandlerTests
 
    // Commenting in the following demonstrates compiler error csharp(0070)
    // [Test]
-   // public void RaiseEvent()
+   // public void RaiseEvent22()
    // {
    //    // arrange
    //    const string payload = "Hello, world!";
