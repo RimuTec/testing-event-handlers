@@ -1,9 +1,9 @@
 version: '3.7'
 
 services:
-   dotnet-demo:
-      container_name: dotnet-demo-dev
-      hostname: dotnet-demo-dev.local
+   event-handlers:
+      container_name: event-handlers-dev
+      hostname: event-handlers-dev.local
       build:
          context: .
       working_dir: /src

@@ -1,9 +1,9 @@
 {
-   "name": "dotnet-demo-dev",
+   "name": "event-handlers-dev",
    "dockerComposeFile": [
       "docker-compose.yml"
    ],
-   "service": "dotnet-demo",
+   "service": "event-handlers",
    "workspaceFolder": "/src",
    "extensions": [
       "fernandoescolar.vscode-solution-explorer",
